@@ -1,0 +1,19 @@
+.viewboxcontainer {
+    border: 10px rgb(143, 134, 209) solid;
+    background-color: rgb(153, 201, 219);
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.slidecontainer {
+    position:relative;
+    top: 10;
+    right: 0;
+    height: 30px;
+}
+
+.slider {
+    width: 25vw;
+}
